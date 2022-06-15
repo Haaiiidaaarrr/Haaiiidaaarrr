@@ -1,4 +1,5 @@
 [![Website](https://img.shields.io/badge/My-Portfolio-blue)](https://haaidar.netlify.app/)
+[![Website](https://img.shields.io/badge/My-Instagram-orange)](https://www.instagram.com/haidar_rosy.id/)
 ##  Hi, I'm **Haidar** a.k.a **Hide**! 👋
 
 
