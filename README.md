@@ -10,7 +10,7 @@
 ```
  - SD Muh. Imam Syuhodo.
  - SMP Muh. Program Khusus Kottabarat Surakarta.
- - SMA Scienceplus Baitul Quran Sragen.
+ - SMA Science Plus Baitul Qur'an Boarding School
 ```
 
 ### 🛠 Skills
