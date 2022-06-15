@@ -8,11 +8,7 @@
 > + 💻 A front-end web developer 
 > + 🛠 Founder [Cardbot Framework](https://cardbot.netlify.app/)
 > + 📚 Study at : 
-> ```
- - SD Muhammadiyah Imam Syuhodo
- - SMP Muhammadiyah Program Khusus Surakarta
- - SMA Science Plus Baitul Qur'an Boarding School
-```
+> ``` - SD Muhammadiyah Imam Syuhodo - SMP Muhammadiyah Program Khusus Surakarta - SMA Science Plus Baitul Qur'an Boarding School ```
 
  ### 🛠 My Skills
 
