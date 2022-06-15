@@ -4,10 +4,10 @@
 
 
  ### 🚀 About Me
-> + ####🧑 He/Him 15 y.o 
-> + ####💻 A front-end web developer 
-> + ####🛠 Founder [Cardbot Framework](https://cardbot.netlify.app/)
-> + ####📚 Study at : 
+> + #### 🧑 He/Him 15 y.o 
+> + #### 💻 A front-end web developer 
+> + #### 🛠 Founder [Cardbot Framework](https://cardbot.netlify.app/)
+> + #### 📚 Study at : 
 > ``` 
 > - SD Muhammadiyah Imam Syuhodo 
 > - SMP Muhammadiyah Program Khusus Surakarta 
