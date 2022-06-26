@@ -24,5 +24,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haaiiidaaarrr&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haaiiidaaarrr&theme=github_dark&utcOffset=8)
 
+![GitHub metrics](https://metrics.lecoq.io/haaiiidaaarrr) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=haaiiidaaarrr)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
