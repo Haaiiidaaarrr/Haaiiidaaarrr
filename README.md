@@ -1,5 +1,4 @@
-[![Website](https://img.shields.io/badge/My-Portfolio-blue)](https://haaidar.netlify.app/)
-[![Website](https://img.shields.io/badge/My-Instagram-orange)](https://www.instagram.com/haidar_rosy.id/)
+
 ##  Hi, I'm **Haidar** a.k.a **Hide**! 👋
 
 
@@ -26,6 +25,10 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/haaiiidaaarrr) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haaiiidaaarrr)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Website](https://img.shields.io/badge/My-Portfolio-blue)](https://haaidar.netlify.app/)
+[![Website](https://img.shields.io/badge/My-Instagram-orange)](https://www.instagram.com/haidar_rosy.id/)
 
 
 
